@@ -1,0 +1,54 @@
+<%- include('../partials/header', { user }) %>
+
+<div class="container mx-auto px-6 py-12">
+  <h1 class="text-4xl font-bold mb-8 gold-text">🎬 All Campaigns</h1>
+  
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    <% campaigns.forEach(campaign => { 
+      const platforms = JSON.parse(campaign.platforms || '[]');
+    %>
+      <div class="card-dark rounded-xl p-6">
+        <div class="flex justify-between items-start mb-4">
+          <h3 class="text-xl font-bold"><%= campaign.name %></h3>
+          <span class="px-3 py-1 rounded-full text-sm <%= campaign.status === 'active' ? 'bg-green-600' : 'bg-gray-600' %>">
+            <%= campaign.status %>
+          </span>
+        </div>
+        
+        <p class="text-gray-400 mb-4"><%= campaign.description || 'No description' %></p>
+        
+        <div class="space-y-2 mb-4">
+          <div class="flex justify-between">
+            <span class="text-gray-500">Type:</span>
+            <span class="gold-text"><%= campaign.type %></span>
+          </div>
+          <div class="flex justify-between">
+            <span class="text-gray-500">Rate:</span>
+            <span class="gold-text">$<%= campaign.rate_per_1k %>/1K views</span>
+          </div>
+          <div class="flex justify-between">
+            <span class="text-gray-500">Platforms:</span>
+            <span><%= platforms.join(', ') %></span>
+          </div>
+        </div>
+        
+        <% if (campaign.status === 'active') { %>
+          <button onclick="joinCampaign(<%= campaign.id %>)" class="w-full py-2 gold-gradient text-black font-semibold rounded-lg hover:opacity-90 transition">
+            Join Campaign
+          </button>
+        <% } %>
+      </div>
+    <% }) %>
+  </div>
+</div>
+
+<script>
+async function joinCampaign(id) {
+  const res = await fetch(`/campaigns/join/${id}`, { method: 'POST' });
+  const data = await res.json();
+  alert(data.message);
+  if (data.success) location.reload();
+}
+</script>
+
+<%- include('../partials/footer') %>

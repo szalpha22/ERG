@@ -1,0 +1,47 @@
+<%- include('../partials/header', { user }) %>
+
+<div class="container mx-auto px-6 py-12">
+  <h1 class="text-4xl font-bold mb-8 gold-text">👑 Admin Panel</h1>
+  
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
+    <div class="card-dark rounded-xl p-6">
+      <div class="text-3xl mb-2">🎬</div>
+      <div class="text-2xl font-bold"><%= stats.campaigns.count %></div>
+      <div class="text-gray-400">Total Campaigns</div>
+    </div>
+    <div class="card-dark rounded-xl p-6">
+      <div class="text-3xl mb-2">📹</div>
+      <div class="text-2xl font-bold"><%= stats.submissions.count %></div>
+      <div class="text-gray-400">Total Submissions</div>
+    </div>
+    <div class="card-dark rounded-xl p-6">
+      <div class="text-3xl mb-2">💰</div>
+      <div class="text-2xl font-bold gold-text"><%= stats.payouts.count %></div>
+      <div class="text-gray-400">Pending Payouts</div>
+    </div>
+  </div>
+
+  <div class="card-dark rounded-xl p-8">
+    <h2 class="text-2xl font-bold mb-6">Quick Actions</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      <button onclick="alert('Feature coming soon!')" class="p-4 bg-gray-900 rounded-lg hover:bg-gray-800 transition text-left">
+        <div class="font-bold mb-1">Add Campaign</div>
+        <div class="text-sm text-gray-400">Create a new campaign</div>
+      </button>
+      <button onclick="alert('Feature coming soon!')" class="p-4 bg-gray-900 rounded-lg hover:bg-gray-800 transition text-left">
+        <div class="font-bold mb-1">Review Submissions</div>
+        <div class="text-sm text-gray-400">Approve or reject clips</div>
+      </button>
+      <button onclick="alert('Feature coming soon!')" class="p-4 bg-gray-900 rounded-lg hover:bg-gray-800 transition text-left">
+        <div class="font-bold mb-1">Process Payouts</div>
+        <div class="text-sm text-gray-400">Approve payout requests</div>
+      </button>
+      <button onclick="alert('Feature coming soon!')" class="p-4 bg-gray-900 rounded-lg hover:bg-gray-800 transition text-left">
+        <div class="font-bold mb-1">Export Data</div>
+        <div class="text-sm text-gray-400">Download reports as CSV</div>
+      </button>
+    </div>
+  </div>
+</div>
+
+<%- include('../partials/footer') %>

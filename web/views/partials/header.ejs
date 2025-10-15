@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ClipHub - Create. Clip. Earn.</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="/css/style.css">
+  <style>
+    @keyframes slide-up {
+      from {
+        opacity: 0;
+        transform: translateY(30px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-20px); }
+    }
+
+    @keyframes shimmer {
+      0% { background-position: -1000px 0; }
+      100% { background-position: 1000px 0; }
+    }
+
+    .slide-up {
+      animation: slide-up 0.6s ease-out forwards;
+      opacity: 0;
+    }
+
+    .float {
+      animation: float 3s ease-in-out infinite;
+    }
+
+    .gold-gradient {
+      background: linear-gradient(135deg, #FFD700 0%, #FFA500 100%);
+    }
+
+    .gold-text {
+      background: linear-gradient(135deg, #FFD700 0%, #FFA500 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .glass-card {
+      background: rgba(43, 45, 49, 0.6);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .glow {
+      box-shadow: 0 0 30px rgba(255, 215, 0, 0.3);
+    }
+
+    .glow-hover:hover {
+      box-shadow: 0 0 40px rgba(255, 215, 0, 0.5);
+      transition: box-shadow 0.3s ease;
+    }
+
+    .btn-gold {
+      transition: all 0.3s ease;
+    }
+
+    .btn-gold:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 10px 30px rgba(255, 215, 0, 0.4);
+    }
+
+    .shimmer {
+      background-size: 1000px 100%;
+      animation: shimmer 2s linear infinite;
+    }
+
+    .delay-1 { animation-delay: 0.1s; }
+    .delay-2 { animation-delay: 0.2s; }
+    .delay-3 { animation-delay: 0.3s; }
+    .delay-4 { animation-delay: 0.4s; }
+    .delay-5 { animation-delay: 0.5s; }
+    .delay-6 { animation-delay: 0.6s; }
+
+    body {
+      background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
+      min-height: 100vh;
+    }
+  </style>
+</head>
+<body class="bg-gray-900 text-white">
+  <!-- Navigation -->
+  <nav class="glass-card border-b border-gray-800 sticky top-0 z-50">
+    <div class="container mx-auto px-6 py-4">
+      <div class="flex items-center justify-between">
+        <a href="/" class="text-3xl font-black gold-text flex items-center space-x-3">
+          <span class="text-4xl">🎬</span>
+          <span>ClipHub</span>
+        </a>
+        
+        <div class="flex items-center space-x-8">
+          <a href="/" class="text-gray-300 hover:text-white transition-colors font-medium">Home</a>
+          <a href="/leaderboard" class="text-gray-300 hover:text-white transition-colors font-medium">Leaderboard</a>
+          <% if (user) { %>
+            <a href="/dashboard" class="text-gray-300 hover:text-white transition-colors font-medium">Dashboard</a>
+            <a href="/campaigns" class="text-gray-300 hover:text-white transition-colors font-medium">Campaigns</a>
+            <a href="/auth/logout" class="px-6 py-2 bg-red-600 hover:bg-red-700 rounded-lg font-semibold transition-colors">Logout</a>
+          <% } else { %>
+            <a href="/login" class="px-6 py-2 gold-gradient text-black font-bold rounded-lg btn-gold">Login</a>
+          <% } %>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <main>
