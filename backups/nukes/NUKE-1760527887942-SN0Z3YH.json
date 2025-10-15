@@ -1,0 +1,1384 @@
+{
+  "nukeId": "NUKE-1760527887942-SN0Z3YH",
+  "timestamp": "2025-10-15T11:31:29.184Z",
+  "executor": {
+    "id": "1009486876329123880",
+    "tag": "szalpha"
+  },
+  "reason": "Testing bot",
+  "channel": {
+    "id": "1427426063545274498",
+    "name": "staff-chat",
+    "type": 0,
+    "topic": null,
+    "nsfw": false,
+    "parentId": "1427426007211839488",
+    "position": 0,
+    "rateLimitPerUser": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1427341802670919730",
+        "type": 0,
+        "allow": "1049600",
+        "deny": "0"
+      },
+      {
+        "id": "1427341800296808584",
+        "type": 0,
+        "allow": "1049600",
+        "deny": "0"
+      },
+      {
+        "id": "1427341797562253486",
+        "type": 0,
+        "allow": "1049600",
+        "deny": "0"
+      },
+      {
+        "id": "1427341799604617340",
+        "type": 0,
+        "allow": "1049600",
+        "deny": "0"
+      },
+      {
+        "id": "1427251987820580926",
+        "type": 0,
+        "allow": "0",
+        "deny": "1049600"
+      },
+      {
+        "id": "1427341795565633618",
+        "type": 0,
+        "allow": "1049600",
+        "deny": "0"
+      },
+      {
+        "id": "1427341801584328935",
+        "type": 0,
+        "allow": "1049600",
+        "deny": "0"
+      },
+      {
+        "id": "1427341798594056232",
+        "type": 0,
+        "allow": "1049600",
+        "deny": "0"
+      },
+      {
+        "id": "1427341796526133259",
+        "type": 0,
+        "allow": "1049600",
+        "deny": "0"
+      }
+    ]
+  },
+  "messages": [
+    {
+      "id": "1427981194825564253",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Ohh okay",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760527647454,
+      "createdAt": "2025-10-15T11:27:27.454Z"
+    },
+    {
+      "id": "1427981082950766665",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "actually I was busy in that banner and they had changes back and forth and wasted a tonn of time",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760527620781,
+      "createdAt": "2025-10-15T11:27:00.781Z"
+    },
+    {
+      "id": "1427980998561501215",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Just wait and watch",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760527600661,
+      "createdAt": "2025-10-15T11:26:40.661Z"
+    },
+    {
+      "id": "1427980974011977729",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Oh I see don't worry dude",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760527594808,
+      "createdAt": "2025-10-15T11:26:34.808Z"
+    },
+    {
+      "id": "1427980923412152381",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Im just getting pressured from the brand",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760527582744,
+      "createdAt": "2025-10-15T11:26:22.744Z"
+    },
+    {
+      "id": "1427980894219665448",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "and will achive 200 members ASAP",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760527575784,
+      "createdAt": "2025-10-15T11:26:15.784Z"
+    },
+    {
+      "id": "1427980893586194432",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Nw man",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760527575633,
+      "createdAt": "2025-10-15T11:26:15.633Z"
+    },
+    {
+      "id": "1427980840729710602",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Bro I'm sorry I started late but don't worry I'm gonna grind like you from now",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760527563031,
+      "createdAt": "2025-10-15T11:26:03.031Z"
+    },
+    {
+      "id": "1427980720361443369",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Just started with other account how's you know",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760527534333,
+      "createdAt": "2025-10-15T11:25:34.333Z"
+    },
+    {
+      "id": "1427980658625478668",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Yes bro",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760527519614,
+      "createdAt": "2025-10-15T11:25:19.614Z"
+    },
+    {
+      "id": "1427980607899701249",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "<@1030877596784795700> \nYOU THERE?",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760527507520,
+      "createdAt": "2025-10-15T11:25:07.520Z"
+    },
+    {
+      "id": "1427976243319541761",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "😭😭",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760526466923,
+      "createdAt": "2025-10-15T11:07:46.923Z"
+    },
+    {
+      "id": "1427976234976940062",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "We need members in server ASAP",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760526464934,
+      "createdAt": "2025-10-15T11:07:44.934Z"
+    },
+    {
+      "id": "1427976206418182236",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "You started inviting",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760526458125,
+      "createdAt": "2025-10-15T11:07:38.125Z"
+    },
+    {
+      "id": "1427976175971598418",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Hey <@1030877596784795700>",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760526450866,
+      "createdAt": "2025-10-15T11:07:30.866Z"
+    },
+    {
+      "id": "1427897298154815559",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Okay",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760507644929,
+      "createdAt": "2025-10-15T05:54:04.929Z"
+    },
+    {
+      "id": "1427896920155885720",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Yeah, today I'll be inviting the Clippers",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760507554807,
+      "createdAt": "2025-10-15T05:52:34.807Z"
+    },
+    {
+      "id": "1427884352594903092",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "<@1030877596784795700> \nWhen will you be inviting people?",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760504558467,
+      "createdAt": "2025-10-15T05:02:38.467Z"
+    },
+    {
+      "id": "1427875320165433425",
+      "author": {
+        "id": "1427232829774762004",
+        "tag": "clip.hub",
+        "bot": false
+      },
+      "content": "Welcome message ain’t getting sent",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760502404968,
+      "createdAt": "2025-10-15T04:26:44.968Z"
+    },
+    {
+      "id": "1427875276213190677",
+      "author": {
+        "id": "1427232829774762004",
+        "tag": "clip.hub",
+        "bot": false
+      },
+      "content": "Turns out I fixed other issues and created a new issue",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760502394489,
+      "createdAt": "2025-10-15T04:26:34.489Z"
+    },
+    {
+      "id": "1427729324110385294",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "",
+      "embeds": [],
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1427426063545274498/1427729323825168478/rn_image_picker_lib_temp_78b3f3d5-b60b-4657-acdf-e7829c8c9631.jpg?ex=68f094cc&is=68ef434c&hm=f4563d996b7a0d3575fee6e4bf20ec06153c71345f37789e7a15f7222332e256&",
+          "name": "rn_image_picker_lib_temp_78b3f3d5-b60b-4657-acdf-e7829c8c9631.jpg"
+        }
+      ],
+      "createdTimestamp": 1760467596796,
+      "createdAt": "2025-10-14T18:46:36.796Z"
+    },
+    {
+      "id": "1427729237003206758",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Omd\nThere are so many new fucking errors 😭",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467576028,
+      "createdAt": "2025-10-14T18:46:16.028Z"
+    },
+    {
+      "id": "1427729092060385441",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "You're the G here bro",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467541471,
+      "createdAt": "2025-10-14T18:45:41.471Z"
+    },
+    {
+      "id": "1427729018978963457",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Gn G",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467524047,
+      "createdAt": "2025-10-14T18:45:24.047Z"
+    },
+    {
+      "id": "1427729005595070596",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Imma start working on the bot",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467520856,
+      "createdAt": "2025-10-14T18:45:20.856Z"
+    },
+    {
+      "id": "1427728973286084709",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Aight bro thank you\nGn",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467513153,
+      "createdAt": "2025-10-14T18:45:13.153Z"
+    },
+    {
+      "id": "1427728871633191015",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "I'll find someone",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467488917,
+      "createdAt": "2025-10-14T18:44:48.917Z"
+    },
+    {
+      "id": "1427728855237656821",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Yeah it much better stressing",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467485008,
+      "createdAt": "2025-10-14T18:44:45.008Z"
+    },
+    {
+      "id": "1427728779731668992",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Bcz I have to leave my hometown and i figured bangalore is perfect for me so once I make some money I'll move to Bangalore most probably next month or dec last and after that when I make more money I'll move to Dubai that's my plan",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467467006,
+      "createdAt": "2025-10-14T18:44:27.006Z"
+    },
+    {
+      "id": "1427728716473307318",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Oh damnnn",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467451924,
+      "createdAt": "2025-10-14T18:44:11.924Z"
+    },
+    {
+      "id": "1427728661129199809",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Bro btw\nIf you know any bot developer \nLemme know \nCuz im currently working on the bot alone and its fucking stressful",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467438729,
+      "createdAt": "2025-10-14T18:43:58.729Z"
+    },
+    {
+      "id": "1427728569861148853",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "How the hell it matches",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467416969,
+      "createdAt": "2025-10-14T18:43:36.969Z"
+    },
+    {
+      "id": "1427728539179810866",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "I'm thinking to leave for Bangalore next month",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467409654,
+      "createdAt": "2025-10-14T18:43:29.654Z"
+    },
+    {
+      "id": "1427728491390173184",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Dude no way",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467398260,
+      "createdAt": "2025-10-14T18:43:18.260Z"
+    },
+    {
+      "id": "1427728449681756322",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Oh 😮",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467388316,
+      "createdAt": "2025-10-14T18:43:08.316Z"
+    },
+    {
+      "id": "1427728439380672572",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Bangalore",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467385860,
+      "createdAt": "2025-10-14T18:43:05.860Z"
+    },
+    {
+      "id": "1427728421064147084",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "I'm from karnataka",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467381493,
+      "createdAt": "2025-10-14T18:43:01.493Z"
+    },
+    {
+      "id": "1427728408070197372",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "And you?",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467378395,
+      "createdAt": "2025-10-14T18:42:58.395Z"
+    },
+    {
+      "id": "1427728382887460904",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Ohh okay",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467372391,
+      "createdAt": "2025-10-14T18:42:52.391Z"
+    },
+    {
+      "id": "1427728350125887632",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Jaipur, rajastan",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467364580,
+      "createdAt": "2025-10-14T18:42:44.580Z"
+    },
+    {
+      "id": "1427728329544306708",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467359673,
+      "createdAt": "2025-10-14T18:42:39.673Z"
+    },
+    {
+      "id": "1427728306651922513",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "I'll also leave to Dubai as soon as I make some money",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467354215,
+      "createdAt": "2025-10-14T18:42:34.215Z"
+    },
+    {
+      "id": "1427728299802628260",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Where in india are you from?",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467352582,
+      "createdAt": "2025-10-14T18:42:32.582Z"
+    },
+    {
+      "id": "1427728263077433514",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Oh damn",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467343826,
+      "createdAt": "2025-10-14T18:42:23.826Z"
+    },
+    {
+      "id": "1427728194215350482",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Oh what we're same age",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467327408,
+      "createdAt": "2025-10-14T18:42:07.408Z"
+    },
+    {
+      "id": "1427728155623555227",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Yeah dude it'll go all with the plan just don't worry I can assure you that with your dedication that is terrifying to me",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467318207,
+      "createdAt": "2025-10-14T18:41:58.207Z"
+    },
+    {
+      "id": "1427728114326310966",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "I'm 19 rn",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467308361,
+      "createdAt": "2025-10-14T18:41:48.361Z"
+    },
+    {
+      "id": "1427728085012185109",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "When i was 8 years old",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467301372,
+      "createdAt": "2025-10-14T18:41:41.372Z"
+    },
+    {
+      "id": "1427728045334200340",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "So you might come to uae to work for ClipHub",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467291912,
+      "createdAt": "2025-10-14T18:41:31.912Z"
+    },
+    {
+      "id": "1427728007044399229",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "If all this goes well according to plan \nWe will have to go full professional have office and all",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467282783,
+      "createdAt": "2025-10-14T18:41:22.783Z"
+    },
+    {
+      "id": "1427727915549724845",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "When you left india",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467260969,
+      "createdAt": "2025-10-14T18:41:00.969Z"
+    },
+    {
+      "id": "1427727884356681830",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "That's my dream country",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467253532,
+      "createdAt": "2025-10-14T18:40:53.532Z"
+    },
+    {
+      "id": "1427727857983033394",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Oh really that's fucking cool bro",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467247244,
+      "createdAt": "2025-10-14T18:40:47.244Z"
+    },
+    {
+      "id": "1427727832590713043",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "And waking up at 10 AM",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467241190,
+      "createdAt": "2025-10-14T18:40:41.190Z"
+    },
+    {
+      "id": "1427727812038627451",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Yoooo whattttt",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467236290,
+      "createdAt": "2025-10-14T18:40:36.290Z"
+    },
+    {
+      "id": "1427727787124461752",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Im Indian aswell\nBut I live in the UAE",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467230350,
+      "createdAt": "2025-10-14T18:40:30.350Z"
+    },
+    {
+      "id": "1427727752366264352",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Since I was working on server and bot",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467222063,
+      "createdAt": "2025-10-14T18:40:22.063Z"
+    },
+    {
+      "id": "1427727735039725629",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "It's 12:10 AM",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467217932,
+      "createdAt": "2025-10-14T18:40:17.932Z"
+    },
+    {
+      "id": "1427727709072789567",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "And I've been sleeping at 4 or 5 am daily for the past 3 days",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467211741,
+      "createdAt": "2025-10-14T18:40:11.741Z"
+    },
+    {
+      "id": "1427727692144578681",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "And you?",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467207705,
+      "createdAt": "2025-10-14T18:40:07.705Z"
+    },
+    {
+      "id": "1427727682669645914",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "India",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467205446,
+      "createdAt": "2025-10-14T18:40:05.446Z"
+    },
+    {
+      "id": "1427727661626691676",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Yeah bro I see only thing in you and that is dedication and grit",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467200429,
+      "createdAt": "2025-10-14T18:40:00.429Z"
+    },
+    {
+      "id": "1427727660670517311",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Its still 10:30 for me",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467200201,
+      "createdAt": "2025-10-14T18:40:00.201Z"
+    },
+    {
+      "id": "1427727630102298748",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Where are you from?",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467192913,
+      "createdAt": "2025-10-14T18:39:52.913Z"
+    },
+    {
+      "id": "1427727618345537649",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Gn gn",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467190110,
+      "createdAt": "2025-10-14T18:39:50.110Z"
+    },
+    {
+      "id": "1427727579174932500",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Cuz can't be having issues in bot once campaigns are live",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467180771,
+      "createdAt": "2025-10-14T18:39:40.771Z"
+    },
+    {
+      "id": "1427727578101186600",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Now I'm off to bed GN bro will grind tmrw aswell 😴",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467180515,
+      "createdAt": "2025-10-14T18:39:40.515Z"
+    },
+    {
+      "id": "1427727539400478771",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Thank you bro\nHave to get the bot to be perfect before campaigns start",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467171288,
+      "createdAt": "2025-10-14T18:39:31.288Z"
+    },
+    {
+      "id": "1427727364384755774",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Dude you're working really hard 💪",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760467129561,
+      "createdAt": "2025-10-14T18:38:49.561Z"
+    },
+    {
+      "id": "1427726745137582120",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Bot issues to fix\n1. Payout id not visible in payout tickets and payout logs\n2. Clip id not visible in tickets and submission logs \n3. Invite system not logging invites into users \n4. Add buttons into ticket embed to close ticket \n5. Campaign joining error it joins Campaign but the message it shows when you join Campaign shows error\n6. A lot of errors in console \n7. in the support page in the ticket message add multiple buttons for different types of tickets \nBusiness enquires, Campaign support, payment issues and tech support \n8. Have to change from clipmaster++ black and gold edition to ClipHub Bot in all embed footers \n9. Add <@&1427341809570418873>  roles to everyone who joins \n10. Change welcome message to include to check <#1427291710043459701>\n11. In ticket logs and the bot dms when a ticket is closed it sends 3 messages one is transcript and 2 are ticket closed message just keep 2 message one transcript and 2 closed\n12. Have to go through every single line of code and every character of code to finetune the bot and make it way way better",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760466981921,
+      "createdAt": "2025-10-14T18:36:21.921Z"
+    },
+    {
+      "id": "1427719305029750836",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Yesssirrr 🙌",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760465208061,
+      "createdAt": "2025-10-14T18:06:48.061Z"
+    },
+    {
+      "id": "1427719220593954877",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Yeah thx bcz I want to manage these submissions and all of that so that I can learn it",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760465187930,
+      "createdAt": "2025-10-14T18:06:27.930Z"
+    },
+    {
+      "id": "1427719183600324609",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Gotta make ClipHub the best clipping platform in the market",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760465179110,
+      "createdAt": "2025-10-14T18:06:19.110Z"
+    },
+    {
+      "id": "1427719091640336496",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "You'll be an admin dw",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760465157185,
+      "createdAt": "2025-10-14T18:05:57.185Z"
+    },
+    {
+      "id": "1427719069494153320",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Once we have campaigns",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760465151905,
+      "createdAt": "2025-10-14T18:05:51.905Z"
+    },
+    {
+      "id": "1427719042025652244",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "For now yes",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760465145356,
+      "createdAt": "2025-10-14T18:05:45.356Z"
+    },
+    {
+      "id": "1427719029878952138",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Oh got it",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760465142460,
+      "createdAt": "2025-10-14T18:05:42.460Z"
+    },
+    {
+      "id": "1427718752975454420",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Everything will be sorted",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760465076441,
+      "createdAt": "2025-10-14T18:04:36.441Z"
+    },
+    {
+      "id": "1427718732259786752",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Then I'll get good money",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760465071502,
+      "createdAt": "2025-10-14T18:04:31.502Z"
+    },
+    {
+      "id": "1427718707240632321",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "So if im able to launch both the campaigns together",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760465065537,
+      "createdAt": "2025-10-14T18:04:25.537Z"
+    },
+    {
+      "id": "1427718651359920218",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "But all other platforms \nViews are automatically tracked",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760465052214,
+      "createdAt": "2025-10-14T18:04:12.214Z"
+    },
+    {
+      "id": "1427718598515888168",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Thats why you can test when you try to submit an Instagram Reel\nIt tells you to add analytics screenshot",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760465039615,
+      "createdAt": "2025-10-14T18:03:59.615Z"
+    },
+    {
+      "id": "1427718500520169624",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "What im gonna do is delay Instagram api for sometime",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760465016251,
+      "createdAt": "2025-10-14T18:03:36.251Z"
+    },
+    {
+      "id": "1427718469431857266",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Na bro all good",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760465008839,
+      "createdAt": "2025-10-14T18:03:28.839Z"
+    },
+    {
+      "id": "1427713966175686767",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "So only admin can approve or disapprove?",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760463935179,
+      "createdAt": "2025-10-14T17:45:35.179Z"
+    },
+    {
+      "id": "1427713667809542144",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Oh really",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760463864043,
+      "createdAt": "2025-10-14T17:44:24.043Z"
+    },
+    {
+      "id": "1427713612528488538",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Bots gonna be crazy soon\nWay mkre features and shi",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760463850863,
+      "createdAt": "2025-10-14T17:44:10.863Z"
+    },
+    {
+      "id": "1427713605549293639",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Bro If yyou have budget problems then you don't even need to pay me just after campaigns you can delay it when you have good cash again bcz you gotta spent good money here and there",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760463849199,
+      "createdAt": "2025-10-14T17:44:09.199Z"
+    },
+    {
+      "id": "1427713426217631836",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "It flags the video for approval from an admin",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760463806443,
+      "createdAt": "2025-10-14T17:43:26.443Z"
+    },
+    {
+      "id": "1427713413466816713",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Oh I see",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760463803403,
+      "createdAt": "2025-10-14T17:43:23.403Z"
+    },
+    {
+      "id": "1427713386514354308",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "If the views suddenly spikes",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760463796977,
+      "createdAt": "2025-10-14T17:43:16.977Z"
+    },
+    {
+      "id": "1427713350309253120",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Views are updated every 240 seconds",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760463788345,
+      "createdAt": "2025-10-14T17:43:08.345Z"
+    },
+    {
+      "id": "1427713336904122419",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "bcz like how a bot can know if it's impressions or views I'm always confused",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760463785149,
+      "createdAt": "2025-10-14T17:43:05.149Z"
+    },
+    {
+      "id": "1427713266607718483",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "so how does this bot works like does it checks spikes?",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760463768389,
+      "createdAt": "2025-10-14T17:42:48.389Z"
+    },
+    {
+      "id": "1427713216318017717",
+      "author": {
+        "id": "1030877596784795700",
+        "tag": "sungjinwoo57",
+        "bot": false
+      },
+      "content": "Oh",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760463756399,
+      "createdAt": "2025-10-14T17:42:36.399Z"
+    },
+    {
+      "id": "1427713204011667477",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "$",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760463753465,
+      "createdAt": "2025-10-14T17:42:33.465Z"
+    },
+    {
+      "id": "1427713199431614484",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Which is 128",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760463752373,
+      "createdAt": "2025-10-14T17:42:32.373Z"
+    },
+    {
+      "id": "1427713190787027024",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "Need to buy Instagram api",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760463750312,
+      "createdAt": "2025-10-14T17:42:30.312Z"
+    },
+    {
+      "id": "1427713170058772493",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "On tiktok and yt shorts",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760463745370,
+      "createdAt": "2025-10-14T17:42:25.370Z"
+    },
+    {
+      "id": "1427713151649976404",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "bot automatically flags clips which have botted views",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760463740981,
+      "createdAt": "2025-10-14T17:42:20.981Z"
+    }
+  ],
+  "dbBackupPath": "/home/runner/workspace/backups/nukes/db-backup-2025-10-15T11-31-29-165Z.db",
+  "messageCount": 100
+}

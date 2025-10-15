@@ -1,0 +1,457 @@
+{
+  "nukeId": "NUKE-1760384606566-LDISWFQ",
+  "timestamp": "2025-10-13T19:43:27.583Z",
+  "executor": {
+    "id": "1427232829774762004",
+    "tag": "szalpha21"
+  },
+  "reason": "Testing for bot",
+  "channel": {
+    "id": "1427289834078339113",
+    "name": "🛠〡bot-cmds",
+    "type": 0,
+    "topic": null,
+    "nsfw": false,
+    "parentId": "1427288866624376986",
+    "position": 3,
+    "rateLimitPerUser": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1427251987820580926",
+        "type": 0,
+        "allow": "2048",
+        "deny": "377957122048"
+      }
+    ]
+  },
+  "messages": [
+    {
+      "id": "1427380989793013945",
+      "author": {
+        "id": "1427294333899378802",
+        "tag": "ClipHub Bot#6259",
+        "bot": true
+      },
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "📨 Invite Stats",
+          "description": "Invite statistics for <@1427232829774762004>",
+          "color": 5793266,
+          "timestamp": "2025-10-13T19:42:27.185000+00:00",
+          "fields": [
+            {
+              "name": "Total Invited",
+              "value": "0",
+              "inline": true
+            },
+            {
+              "name": "Currently In Server",
+              "value": "0",
+              "inline": true
+            },
+            {
+              "name": "Left Server",
+              "value": "0",
+              "inline": true
+            },
+            {
+              "name": "Fake Invites",
+              "value": "0 ⚠️",
+              "inline": true
+            },
+            {
+              "name": "Real Invites",
+              "value": "0",
+              "inline": true
+            }
+          ],
+          "thumbnail": {
+            "url": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/vzl3NGWAEK1Te1Gad7T5iMDtCSNZctkSGApvhD6JoxM/https/cdn.discordapp.com/embed/avatars/2.png",
+            "width": 256,
+            "height": 256,
+            "content_type": "image/png",
+            "placeholder": "YVgNDwgnaJiHh3iAe4mHp3eHiY33J4cA",
+            "placeholder_version": 1,
+            "flags": 0
+          },
+          "content_scan_version": 2
+        }
+      ],
+      "attachments": [],
+      "createdTimestamp": 1760384547423,
+      "createdAt": "2025-10-13T19:42:27.423Z"
+    },
+    {
+      "id": "1427380803016593418",
+      "author": {
+        "id": "1427294333899378802",
+        "tag": "ClipHub Bot#6259",
+        "bot": true
+      },
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "📨 Invite Stats",
+          "description": "Invite statistics for <@1427232829774762004>",
+          "color": 5793266,
+          "timestamp": "2025-10-13T19:41:42.648000+00:00",
+          "fields": [
+            {
+              "name": "Total Invited",
+              "value": "0",
+              "inline": true
+            },
+            {
+              "name": "Currently In Server",
+              "value": "0",
+              "inline": true
+            },
+            {
+              "name": "Left Server",
+              "value": "0",
+              "inline": true
+            },
+            {
+              "name": "Fake Invites",
+              "value": "0 ⚠️",
+              "inline": true
+            },
+            {
+              "name": "Real Invites",
+              "value": "0",
+              "inline": true
+            }
+          ],
+          "thumbnail": {
+            "url": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/vzl3NGWAEK1Te1Gad7T5iMDtCSNZctkSGApvhD6JoxM/https/cdn.discordapp.com/embed/avatars/2.png",
+            "width": 256,
+            "height": 256,
+            "content_type": "image/png",
+            "placeholder": "YVgNDwgnaJiHh3iAe4mHp3eHiY33J4cA",
+            "placeholder_version": 1,
+            "flags": 0
+          },
+          "content_scan_version": 2
+        }
+      ],
+      "attachments": [],
+      "createdTimestamp": 1760384502892,
+      "createdAt": "2025-10-13T19:41:42.892Z"
+    },
+    {
+      "id": "1427368853133856898",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "/nuke",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760381653818,
+      "createdAt": "2025-10-13T18:54:13.818Z"
+    },
+    {
+      "id": "1427368565257801829",
+      "author": {
+        "id": "1427294333899378802",
+        "tag": "ClipHub Bot#6259",
+        "bot": true
+      },
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "🎟️ Tickets Commands",
+          "description": "All tickets commands available",
+          "color": 16766720,
+          "timestamp": "2025-10-13T18:53:21.006000+00:00",
+          "fields": [
+            {
+              "name": "/closeticket",
+              "value": "Close the current ticket\n**Usage:** `/closeticket`",
+              "inline": false
+            }
+          ],
+          "footer": {
+            "text": "ClipHub Bot • Page 1/1 • Use the buttons to navigate"
+          },
+          "content_scan_version": 2
+        }
+      ],
+      "attachments": [],
+      "createdTimestamp": 1760381585183,
+      "createdAt": "2025-10-13T18:53:05.183Z"
+    },
+    {
+      "id": "1427368227205287946",
+      "author": {
+        "id": "1427294333899378802",
+        "tag": "ClipHub Bot#6259",
+        "bot": true
+      },
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "💻 Developer Commands",
+          "description": "All developer commands available",
+          "color": 16766720,
+          "timestamp": "2025-10-13T18:51:55.893000+00:00",
+          "fields": [
+            {
+              "name": "/eval",
+              "value": "[DEVELOPER ONLY] Evaluate JavaScript code\n**Usage:** `/eval`",
+              "inline": false
+            },
+            {
+              "name": "/reload",
+              "value": "[DEVELOPER ONLY] Reload a command\n**Usage:** `/reload`",
+              "inline": false
+            },
+            {
+              "name": "/stats",
+              "value": "View bot statistics\n**Usage:** `/stats`",
+              "inline": false
+            }
+          ],
+          "footer": {
+            "text": "ClipHub Bot • Page 1/1 • Use the buttons to navigate"
+          },
+          "content_scan_version": 2
+        }
+      ],
+      "attachments": [],
+      "createdTimestamp": 1760381504585,
+      "createdAt": "2025-10-13T18:51:44.585Z"
+    },
+    {
+      "id": "1427365266769318099",
+      "author": {
+        "id": "1427294333899378802",
+        "tag": "ClipHub Bot#6259",
+        "bot": true
+      },
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "📚 ClipMaster Core++++ Commands",
+          "description": "Here are all available commands:",
+          "color": 5793266,
+          "timestamp": "2025-10-13T18:39:58.640000+00:00",
+          "fields": [
+            {
+              "name": "🎬 Campaign Commands",
+              "value": "`/submit` - Submit a clip\n`/profile` - View your profile\n`/leaderboard` - View top clippers",
+              "inline": false
+            },
+            {
+              "name": "💰 Payout Commands",
+              "value": "`/setpayout` - Set payout info\n`/requestpayout` - Request a payout",
+              "inline": false
+            },
+            {
+              "name": "📨 Invite Commands",
+              "value": "`/invites` - Check invites\n`/topinvites` - Top inviters",
+              "inline": false
+            },
+            {
+              "name": "👑 Admin Commands",
+              "value": "`/addcampaign` - Create campaign\n`/endcampaign` - End campaign\n`/approveclip` - Approve clip\n`/rejectclip` - Reject clip\n`/flagclip` - Flag clip\n`/approvepayout` - Approve payout\n`/rejectpayout` - Reject payout\n`/approve` - Verify clipper\n`/banclipper` - Ban user\n`/bonus` - Grant bonus\n`/closeticket` - Close ticket\n`/massdm` - DM all clippers\n`/exportdata` - Export data",
+              "inline": false
+            },
+            {
+              "name": "ℹ️ Utility",
+              "value": "`/ping` - Check bot latency\n`/help` - Show this menu",
+              "inline": false
+            }
+          ],
+          "footer": {
+            "text": "ClipMaster Core++++ - Professional Clipping Management"
+          },
+          "content_scan_version": 2
+        }
+      ],
+      "attachments": [],
+      "createdTimestamp": 1760380798762,
+      "createdAt": "2025-10-13T18:39:58.762Z"
+    },
+    {
+      "id": "1427364144411054127",
+      "author": {
+        "id": "1427294333899378802",
+        "tag": "ClipHub Bot#6259",
+        "bot": true
+      },
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "📚 ClipMaster Core++++ Commands",
+          "description": "Here are all available commands:",
+          "color": 5793266,
+          "timestamp": "2025-10-13T18:35:31.037000+00:00",
+          "fields": [
+            {
+              "name": "🎬 Campaign Commands",
+              "value": "`/submit` - Submit a clip\n`/profile` - View your profile\n`/leaderboard` - View top clippers",
+              "inline": false
+            },
+            {
+              "name": "💰 Payout Commands",
+              "value": "`/setpayout` - Set payout info\n`/requestpayout` - Request a payout",
+              "inline": false
+            },
+            {
+              "name": "📨 Invite Commands",
+              "value": "`/invites` - Check invites\n`/topinvites` - Top inviters",
+              "inline": false
+            },
+            {
+              "name": "👑 Admin Commands",
+              "value": "`/addcampaign` - Create campaign\n`/endcampaign` - End campaign\n`/approveclip` - Approve clip\n`/rejectclip` - Reject clip\n`/flagclip` - Flag clip\n`/approvepayout` - Approve payout\n`/rejectpayout` - Reject payout\n`/approve` - Verify clipper\n`/banclipper` - Ban user\n`/bonus` - Grant bonus\n`/closeticket` - Close ticket\n`/massdm` - DM all clippers\n`/exportdata` - Export data",
+              "inline": false
+            },
+            {
+              "name": "ℹ️ Utility",
+              "value": "`/ping` - Check bot latency\n`/help` - Show this menu",
+              "inline": false
+            }
+          ],
+          "footer": {
+            "text": "ClipMaster Core++++ - Professional Clipping Management"
+          },
+          "content_scan_version": 2
+        }
+      ],
+      "attachments": [],
+      "createdTimestamp": 1760380531171,
+      "createdAt": "2025-10-13T18:35:31.171Z"
+    },
+    {
+      "id": "1427363215859257416",
+      "author": {
+        "id": "1427294333899378802",
+        "tag": "ClipHub Bot#6259",
+        "bot": true
+      },
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "📚 ClipMaster Core++++ Commands",
+          "description": "Here are all available commands:",
+          "color": 5793266,
+          "timestamp": "2025-10-13T18:31:49.650000+00:00",
+          "fields": [
+            {
+              "name": "🎬 Campaign Commands",
+              "value": "`/submit` - Submit a clip\n`/profile` - View your profile\n`/leaderboard` - View top clippers",
+              "inline": false
+            },
+            {
+              "name": "💰 Payout Commands",
+              "value": "`/setpayout` - Set payout info\n`/requestpayout` - Request a payout",
+              "inline": false
+            },
+            {
+              "name": "📨 Invite Commands",
+              "value": "`/invites` - Check invites\n`/topinvites` - Top inviters",
+              "inline": false
+            },
+            {
+              "name": "👑 Admin Commands",
+              "value": "`/addcampaign` - Create campaign\n`/endcampaign` - End campaign\n`/approveclip` - Approve clip\n`/rejectclip` - Reject clip\n`/flagclip` - Flag clip\n`/approvepayout` - Approve payout\n`/rejectpayout` - Reject payout\n`/approve` - Verify clipper\n`/banclipper` - Ban user\n`/bonus` - Grant bonus\n`/closeticket` - Close ticket\n`/massdm` - DM all clippers\n`/exportdata` - Export data",
+              "inline": false
+            },
+            {
+              "name": "ℹ️ Utility",
+              "value": "`/ping` - Check bot latency\n`/help` - Show this menu",
+              "inline": false
+            }
+          ],
+          "footer": {
+            "text": "ClipMaster Core++++ - Professional Clipping Management"
+          },
+          "content_scan_version": 2
+        }
+      ],
+      "attachments": [],
+      "createdTimestamp": 1760380309787,
+      "createdAt": "2025-10-13T18:31:49.787Z"
+    },
+    {
+      "id": "1427360548034576435",
+      "author": {
+        "id": "1427294333899378802",
+        "tag": "ClipHub Bot#6259",
+        "bot": true
+      },
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "📚 ClipMaster Core++++ Commands",
+          "description": "Here are all available commands:",
+          "color": 5793266,
+          "timestamp": "2025-10-13T18:21:13.594000+00:00",
+          "fields": [
+            {
+              "name": "🎬 Campaign Commands",
+              "value": "`/submit` - Submit a clip\n`/profile` - View your profile\n`/leaderboard` - View top clippers",
+              "inline": false
+            },
+            {
+              "name": "💰 Payout Commands",
+              "value": "`/setpayout` - Set payout info\n`/requestpayout` - Request a payout",
+              "inline": false
+            },
+            {
+              "name": "📨 Invite Commands",
+              "value": "`/invites` - Check invites\n`/topinvites` - Top inviters",
+              "inline": false
+            },
+            {
+              "name": "👑 Admin Commands",
+              "value": "`/addcampaign` - Create campaign\n`/endcampaign` - End campaign\n`/approveclip` - Approve clip\n`/rejectclip` - Reject clip\n`/flagclip` - Flag clip\n`/approvepayout` - Approve payout\n`/rejectpayout` - Reject payout\n`/approve` - Verify clipper\n`/banclipper` - Ban user\n`/bonus` - Grant bonus\n`/closeticket` - Close ticket\n`/massdm` - DM all clippers\n`/exportdata` - Export data",
+              "inline": false
+            },
+            {
+              "name": "ℹ️ Utility",
+              "value": "`/ping` - Check bot latency\n`/help` - Show this menu",
+              "inline": false
+            }
+          ],
+          "footer": {
+            "text": "ClipMaster Core++++ - Professional Clipping Management"
+          },
+          "content_scan_version": 2
+        }
+      ],
+      "attachments": [],
+      "createdTimestamp": 1760379673728,
+      "createdAt": "2025-10-13T18:21:13.728Z"
+    },
+    {
+      "id": "1427340053490696306",
+      "author": {
+        "id": "1009486876329123880",
+        "tag": "szalpha",
+        "bot": false
+      },
+      "content": "/template loadname_or_id: KVayW7WhJuYj.",
+      "embeds": [],
+      "attachments": [],
+      "createdTimestamp": 1760374787448,
+      "createdAt": "2025-10-13T16:59:47.448Z"
+    }
+  ],
+  "dbBackupPath": "/home/runner/workspace/backups/nukes/db-backup-2025-10-13T19-43-27-581Z.db",
+  "messageCount": 10
+}

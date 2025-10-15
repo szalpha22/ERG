@@ -1,0 +1,317 @@
+{
+  "nukeId": "NUKE-1760448954251-53MDK7R",
+  "timestamp": "2025-10-14T13:35:55.255Z",
+  "executor": {
+    "id": "1009486876329123880",
+    "tag": "szalpha"
+  },
+  "reason": "Testing the bot",
+  "channel": {
+    "id": "1427381245280522384",
+    "name": "🛠〡bot-cmds",
+    "type": 0,
+    "topic": null,
+    "nsfw": false,
+    "parentId": "1427288866624376986",
+    "position": 3,
+    "rateLimitPerUser": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1427251987820580926",
+        "type": 0,
+        "allow": "1126451810142208",
+        "deny": "0"
+      }
+    ]
+  },
+  "messages": [
+    {
+      "id": "1427455753492500551",
+      "author": {
+        "id": "1427294333899378802",
+        "tag": "ClipHub Bot#6259",
+        "bot": true
+      },
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "📚 ClipMaster Core++ - Command Center",
+          "description": "**Welcome to ClipMaster!**\nClick the buttons below to view commands by category.\n\nUse the search feature to find specific commands by keyword.",
+          "color": 16766720,
+          "timestamp": "2025-10-14T00:39:32.252000+00:00",
+          "fields": [
+            {
+              "name": "💻 Developer",
+              "value": "3 commands available",
+              "inline": true
+            },
+            {
+              "name": "👑 Admin",
+              "value": "12 commands available",
+              "inline": true
+            },
+            {
+              "name": "🛡️ Moderation",
+              "value": "16 commands available",
+              "inline": true
+            },
+            {
+              "name": "🎬 Campaign",
+              "value": "3 commands available",
+              "inline": true
+            },
+            {
+              "name": "💰 Payout",
+              "value": "2 commands available",
+              "inline": true
+            },
+            {
+              "name": "🎟️ Tickets",
+              "value": "1 command available",
+              "inline": true
+            },
+            {
+              "name": "📨 Invites",
+              "value": "2 commands available",
+              "inline": true
+            },
+            {
+              "name": "ℹ️ Utility",
+              "value": "7 commands available",
+              "inline": true
+            },
+            {
+              "name": "🎉 Fun & Social",
+              "value": "2 commands available",
+              "inline": true
+            },
+            {
+              "name": "📚 General",
+              "value": "8 commands available",
+              "inline": true
+            }
+          ],
+          "footer": {
+            "text": "ClipMaster Core++ • Black & Gold Edition"
+          },
+          "content_scan_version": 2
+        }
+      ],
+      "attachments": [],
+      "createdTimestamp": 1760402372478,
+      "createdAt": "2025-10-14T00:39:32.478Z"
+    },
+    {
+      "id": "1427413341621719284",
+      "author": {
+        "id": "1427294333899378802",
+        "tag": "ClipHub Bot#6259",
+        "bot": true
+      },
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "💰 Payout Commands",
+          "description": "All payout commands available",
+          "timestamp": "2025-10-13T21:51:13.728000+00:00",
+          "fields": [
+            {
+              "name": "/requestpayout",
+              "value": "Request a payout for a campaign\n**Usage:** `/requestpayout`",
+              "inline": false
+            },
+            {
+              "name": "/setpayout",
+              "value": "Set your payout information\n**Usage:** `/setpayout`",
+              "inline": false
+            }
+          ],
+          "footer": {
+            "text": "ClipHub Bot • Page 1/1 • Use the buttons to navigate"
+          },
+          "content_scan_version": 2
+        }
+      ],
+      "attachments": [],
+      "createdTimestamp": 1760392260700,
+      "createdAt": "2025-10-13T21:51:00.700Z"
+    },
+    {
+      "id": "1427402036210565273",
+      "author": {
+        "id": "1427294333899378802",
+        "tag": "ClipHub Bot#6259",
+        "bot": true
+      },
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "📨 Invite Stats",
+          "description": "Invite statistics for <@1427232829774762004>",
+          "color": 5793266,
+          "timestamp": "2025-10-13T21:06:05.053000+00:00",
+          "fields": [
+            {
+              "name": "Total Invited",
+              "value": "0",
+              "inline": true
+            },
+            {
+              "name": "Currently In Server",
+              "value": "0",
+              "inline": true
+            },
+            {
+              "name": "Left Server",
+              "value": "0",
+              "inline": true
+            },
+            {
+              "name": "Fake Invites",
+              "value": "0 ⚠️",
+              "inline": true
+            },
+            {
+              "name": "Real Invites",
+              "value": "0",
+              "inline": true
+            }
+          ],
+          "thumbnail": {
+            "url": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/vzl3NGWAEK1Te1Gad7T5iMDtCSNZctkSGApvhD6JoxM/https/cdn.discordapp.com/embed/avatars/2.png",
+            "width": 256,
+            "height": 256,
+            "content_type": "image/png",
+            "placeholder": "YVgNDwgnaJiHh3iAe4mHp3eHiY33J4cA",
+            "placeholder_version": 1,
+            "flags": 0
+          },
+          "content_scan_version": 2
+        }
+      ],
+      "attachments": [],
+      "createdTimestamp": 1760389565280,
+      "createdAt": "2025-10-13T21:06:05.280Z"
+    },
+    {
+      "id": "1427395022873038858",
+      "author": {
+        "id": "1427294333899378802",
+        "tag": "ClipHub Bot#6259",
+        "bot": true
+      },
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "📚 ClipHub Bot - Command Center",
+          "description": "**Welcome to ClipHub Bot!**\nClick the buttons below to view commands by category.\n\nUse the search feature to find specific commands by keyword.",
+          "color": 16766720,
+          "timestamp": "2025-10-13T20:38:12.937000+00:00",
+          "fields": [
+            {
+              "name": "🎬 Campaign",
+              "value": "3 commands available",
+              "inline": true
+            },
+            {
+              "name": "💰 Payout",
+              "value": "2 commands available",
+              "inline": true
+            },
+            {
+              "name": "🎟️ Tickets",
+              "value": "1 command available",
+              "inline": true
+            },
+            {
+              "name": "📨 Invites",
+              "value": "2 commands available",
+              "inline": true
+            },
+            {
+              "name": "ℹ️ Utility",
+              "value": "7 commands available",
+              "inline": true
+            },
+            {
+              "name": "🎉 Fun & Social",
+              "value": "2 commands available",
+              "inline": true
+            },
+            {
+              "name": "📚 General",
+              "value": "3 commands available",
+              "inline": true
+            }
+          ],
+          "footer": {
+            "text": "ClipHub Bot - Professional Server Management"
+          },
+          "content_scan_version": 2
+        }
+      ],
+      "attachments": [],
+      "createdTimestamp": 1760387893170,
+      "createdAt": "2025-10-13T20:38:13.170Z"
+    },
+    {
+      "id": "1427381252742447185",
+      "author": {
+        "id": "1427294333899378802",
+        "tag": "ClipHub Bot#6259",
+        "bot": true
+      },
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "💥 CHANNEL NUKED",
+          "description": "This channel has been completely reset.",
+          "color": 16711680,
+          "timestamp": "2025-10-13T19:43:29.912000+00:00",
+          "fields": [
+            {
+              "name": "Nuke ID",
+              "value": "`NUKE-1760384606566-LDISWFQ`",
+              "inline": true
+            },
+            {
+              "name": "Executed By",
+              "value": "<@1427232829774762004>",
+              "inline": true
+            },
+            {
+              "name": "Reason",
+              "value": "Testing for bot",
+              "inline": false
+            },
+            {
+              "name": "📦 Backup",
+              "value": "10 messages saved",
+              "inline": true
+            },
+            {
+              "name": "🔄 Recovery",
+              "value": "Use `/nukeinfo NUKE-1760384606566-LDISWFQ` for details",
+              "inline": true
+            }
+          ],
+          "footer": {
+            "text": "All data has been backed up • Nuke ID: NUKE-1760384606566-LDISWFQ"
+          },
+          "content_scan_version": 2
+        }
+      ],
+      "attachments": [],
+      "createdTimestamp": 1760384610115,
+      "createdAt": "2025-10-13T19:43:30.115Z"
+    }
+  ],
+  "dbBackupPath": "/home/runner/workspace/backups/nukes/db-backup-2025-10-14T13-35-55-254Z.db",
+  "messageCount": 5
+}

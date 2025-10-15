@@ -1,0 +1,165 @@
+Build me a full-stack website for my Discord project “ClipHub”.
+
+This site should be fully connected to my existing Discord bot’s database (SQLite or Firebase).  
+The site will be the **creator dashboard** for all campaigns, submissions, and payouts — and it must also include automated **multi-platform view tracking**.
+
+---
+
+## ⚙️ Core Stack
+- Node.js + Express backend
+- EJS (or modern minimal React frontend)
+- SQLite or Firebase (use whichever connects easier)
+- node-cron for scheduled tasks
+- Tailwind CSS for design
+- Discord OAuth2 login
+- axios or node-fetch for API/scraper calls
+
+---
+
+## 🎨 Design
+Theme: **Black + Gold luxury aesthetic**
+- Background: deep matte black
+- Accents: warm gold (#D4AF37)
+- Clean, modern, “creator dashboard” look
+- Elegant typography (Montserrat, Inter, or similar)
+- Use subtle gold gradients for buttons and hover states
+- Add a small ClipHub logo top-left (use a placeholder for now)
+
+---
+
+## 🌐 Pages and Features
+
+### 🔑 Authentication
+- Discord OAuth2 login
+- Only verified Discord members of my server can log in
+- Store user data in database (id, username, avatar, roles)
+
+---
+
+### 🏠 Home Page
+- Welcome hero section (“Create. Clip. Earn.”)
+- Show featured/active campaigns
+- “Join Campaign” button for each campaign (grants role in Discord via bot)
+- Footer with socials (Discord, Instagram, etc.)
+
+---
+
+### 🎬 Campaigns Page
+- List all active and past campaigns
+- Each campaign card shows:
+  - Campaign name, type (Reposting / Clipping)
+  - Platforms allowed (TikTok, Instagram, YouTube)
+  - Rate per 1k views
+  - Description
+  - Join / Leave button (syncs with Discord bot)
+- Campaign stats at bottom (total clips, views, etc.)
+
+---
+
+### 📤 Submit Clip Page
+- Form: select campaign + paste link
+- For Instagram submissions: require **upload of analytics screenshot (image)**
+- Automatically detect platform from URL
+- Save submission in DB (with timestamp, link, platform)
+- Prevent duplicates
+
+---
+
+### 📈 View Tracking System
+- Every 60 minutes, node-cron runs a job to refresh all video view counts.
+- Fetch logic:
+  - **YouTube Shorts** → Use YouTube Data API v3
+  - **TikTok** → Use safe public scrapers (RapidAPI or Apify endpoints)
+  - **Instagram Reels** → Use Cheerio/Puppeteer scraper for view count
+- Update each clip’s `views_current`, `views_last_checked`, and `updated_at`
+- Store all updates in `view_logs` table
+- Show last updated time in dashboard
+- Optional: add “View History” graph per clip (using Chart.js)
+
+---
+
+### 💰 Payout System
+- User dashboard page:
+  - Shows total views, total earnings, clips submitted, and payout status
+  - Button: “Request Payout”
+  - Payout request form includes:
+    - Payout method (UPI / PayPal / Solana)
+    - Proof of analytics (MP4 or screenshot)
+  - Saves request + uploads file to server folder
+- Admin dashboard page:
+  - List pending payout requests
+  - Approve / Reject buttons
+  - Log everything to Discord via webhook or log channel
+
+---
+
+### 🧾 Admin Panel
+- Secure route for admins only (based on Discord role)
+- Controls:
+  - Add / Edit / End campaigns
+  - Flag or unflag clips
+  - Approve or reject payout requests
+  - Export payout reports (CSV)
+  - View logs (clip submissions, view updates, flags, payouts)
+- Search & filter campaigns/users
+- Black and gold dashboard UI with tabbed navigation
+
+---
+
+### 📊 Leaderboard
+- Global leaderboard of top creators
+- Sort by total views, total earnings, or approved clips
+- Pagination and simple search
+- Gold crown icon for top 3 users
+
+---
+
+### 📦 Logs & Reports
+- Separate section for:
+  - View logs (auto-updated hourly)
+  - Submission logs
+  - Flagged clips
+  - Payout logs
+- All stored in database
+- Option to export as CSV
+
+---
+
+### 🧠 Smart Features
+- Auto-detect platform from link
+- Auto-flag submissions if view spikes >10k/hour
+- DM users through bot when:
+  - Clip approved / rejected
+  - Campaign starts or ends
+  - Payout approved or denied
+- Weekly automatic report generation (DM + website notification)
+- Email/Discord webhook alert to admins for flagged or pending reviews
+
+---
+
+### 🛠️ Utility
+- /setlogchannel, /setflagchannel, /setannouncementchannel handled by bot
+- The website just reflects and syncs all that data
+- Bot and site share same DB (for real-time updates)
+
+---
+
+### 🧱 Structure
+Create project folders:
+- `/web` → all frontend code
+- `/bot` → existing Discord bot code (already linked)
+- `/database` → models, migrations, db.js
+- `/cron` → for view tracking
+- `/routes` → Express routes (auth, campaigns, clips, payouts)
+- `/public/uploads` → clip proofs & analytics uploads
+
+---
+
+### ✅ Deliverables
+- Fully functional web dashboard matching black & gold theme
+- Integrated with Discord bot & shared database
+- Auto hourly view tracker for YouTube, TikTok, Instagram
+- Admin dashboard for campaign & payout control
+- Logs for every action
+- Secure login & role-based access
+- Ready to deploy on Replit with working domain
